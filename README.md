@@ -1,6 +1,6 @@
 # F26 CO Detector
 
-ECE4144 coursework project using an **Adafruit Circuit Playground Classic**,
+CO detector project using an **Adafruit Circuit Playground Classic**,
 an **MQ7 sensor module**, and an external common-cathode **RGB LED**.
 
 The source in [`src/main.cpp`](src/main.cpp) is the original supplied code,
@@ -64,6 +64,6 @@ it does not validate physical wiring, sensor calibration or CO concentrations.
 
 ## References
 
-- [Course-provided MQ7 tutorial](https://www.makerguides.com/arduino-uno-and-mq7-co-sensor/)
+- [MQ7 tutorial](https://www.makerguides.com/arduino-uno-and-mq7-co-sensor/)
 - [ATmega32U4 datasheet](https://ww1.microchip.com/downloads/en/devicedoc/atmel-7766-8-bit-avr-atmega16u4-32u4_datasheet.pdf)
 - [PlatformIO Circuit Playground Classic board](https://docs.platformio.org/en/latest/boards/atmelavr/circuitplay_classic.html)
